@@ -2,9 +2,9 @@
 
 - Algorithms
 
-  "#include <iostream>"
+  "#include \<iostream>"
 
-  "#include <algorithm>"
+  "#include \<algorithm>"
 
   - Sorting
 
@@ -25,6 +25,8 @@
 - Containers
 
   - Vector
+
+    "#include \<vector>"
 
     empty()
 
@@ -53,6 +55,8 @@
   - Priority_queue
 
   - Stack
+
+    "#include \<stack>"
 
     empty()
 
